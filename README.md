@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hey! I'm a Data Analyst on a mission to decode the world through data!<br>🐍 Python | 📊 Pandas | 📈 Matplotlib | 🌊 Seaborn | 🗃️ SQL | 📊 Power BI | Excel<br>🧠 Mastering Machine Learning, Deep Learning, and Agentic AI to build intelligent systems.<br>📚 Strong foundation in Statistics and Calculus for data-driven decision-making.<br>💡 Passionate about transforming data into actionable insights. Let's innovate together!
+👨‍💻 Hey! I'm a Data Analyst on a mission to decode the world through data!<br>🐍 Python | 📊 Pandas | 📈 Matplotlib | 🌊 Seaborn | 🗃️ SQL | 📊 Power BI | Excel<br>🧠 Mastering Machine Learning, Deep Learning, and Agentic AI to build intelligent systems.<br>📚 Strong foundation in Statistics and Calculus for data-driven decision-making.<br>✨ Created datasets on Kaggle to share insights with the community.<br>💡 Passionate about transforming data into actionable insights. Let's innovate together!
 
 
 ## 🌐 Socials:
